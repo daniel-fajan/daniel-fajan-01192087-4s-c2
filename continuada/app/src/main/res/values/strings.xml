@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Continuada 2</string>
+
+    <string name="titulo">Consulta para compra de cachorros</string>
+    <string name="id_cachorro_1">ID do primeiro cachorro</string>
+    <string name="id_cachorro_2">ID do segundo cachorro</string>
+    <string name="botao_comprar">Comprar cachorros</string>
+    <string name="apenas_para_crianca">Apenas amigáveis com crianças</string>
+
+    <string name="mensagem_deu_ruim">Deu ruim... Nenhum cachorro encontrado com os ids %1$d e %2$d</string>
+
+    <string name="cachorro_1">Cachorro 1: %1$s</string>
+    <string name="cachorro_2">Cachorro 2: %1$s</string>
+    <string name="preco_total">Preço total de compra: R$%1$.2f</string>
+</resources>
